@@ -12,7 +12,7 @@
 
 *qrcode** -https://github.com/KarpovAlexandrGo/qrcode:  Программа для для генерации QR-кодов на Python.
 
-**go-todo** -https://github.com/KarpovAlexandrGo/Statistics_collection:  Микросервис на golang для сбора статистики, создан для возможности хранения статистики в базе данных Postgres.
+**Statistics_collection** -https://github.com/KarpovAlexandrGo/Statistics_collection:  Микросервис на golang для сбора статистики, создан для возможности хранения статистики в базе данных Postgres.
 
 Skills: GO / Postgress/ Docker / Git
 
