@@ -4,11 +4,11 @@
 
 **Мой пет проекты :**
 
-**fortune-teller** -  https://github.com/KarpovAlexandrGo/fortune-teller: Пет проект бот для Телеграмма - был написан с целью научиться подключаться к внешней библиотеки которая непосредственно работает с API Telegrama.
+**fortune-teller** -  https://github.com/KarpovAlexandrGo/fortune-teller:  Проект бот для Телеграмма.
 
-**go-server** -https://github.com/KarpovAlexandrGo/go-server: Простой веб сервер на Golang - был написан с целью изучения стандартных пакетов для создания веб сервера net/http.
+**go-server** -https://github.com/KarpovAlexandrGo/go-server: Простой веб сервер на Golang.
 
-**go-todo** -https://github.com/KarpovAlexandrGo/go-todo:  ToDo list- проект был написан для изучения CRUD в языке Golang на практике а так же с помощью этого проекта я познакомился с NoSQL базой данных MongoDB и работой с ней в Go.
+**go-todo** -https://github.com/KarpovAlexandrGo/go-todo:  ToDo list- CRUD с базой данных MongoDB .
 
 **qrcode** -https://github.com/KarpovAlexandrGo/qrcode:  Программа для для генерации QR-кодов на Python.
 
