@@ -2,7 +2,7 @@
 #### I am Go devoloper
 Добро пожаловать на мою страницу на GitHub!
 
-**Мой пет проекты :**
+**Мой проекты :**
 
 **fortune-teller** -  https://github.com/KarpovAlexandrGo/fortune-teller:  Проект бот для Телеграмма.
 
